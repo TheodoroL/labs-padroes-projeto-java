@@ -1,4 +1,4 @@
-package com.theodorol.gof;
+package com.theodorol.gof.Singleton;
 
 /**
  * Singleton Lazy Holder
